@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CatInTheHat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">The Cat</string>
+    <string name="btn2">Thing 1</string>
+    <string name="btn3">Thing 2</string>
+    <string name="btn4">Thingamajigger</string>
+    <string name="btn5">Sally</string>
+    <string name="btn6">Nick</string>
+    <string name="btn7">Dr. Seuss</string>
+
+</resources>
